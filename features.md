@@ -1,136 +1,137 @@
-# Features
+# 주요기능
 ---
-### Every item can be selected individually or applied all at once. By default, all features are disabled.
+### 모든 항목은 개별적으로 선택하거나 한꺼번에 적용할 수 있습니다. 기본 설정은 '비활성화' 상태입니다.
 ---
-### Act I
+### 액트1
 
 <img src="https://i.imgur.com/obveN0g.gif" />
 
-Shortens the route from Stony Field through the Underground Passage toward Dark Wood.
-The entrance in Stony Field leads you directly toward the Dark Wood side instead of sending you backwards.
+스토니 필드(바위 들판)에서 지하 통로를 거쳐 다크 우드(어둠의 숲)로 가는 동선이 단축됩니다.
+지하 통로 입장 시 거꾸로 되돌아 나갈 필요 없이, 다크 우드 방향으로 곧장 연결됩니다.
 
 ---
 
 <img src="https://i.imgur.com/DGrwY5a.gif" />
 
-Entering the Forgotten Tower no longer starts on Level 1.
-The entrance warp takes you straight down to Tower Level 5 for much faster Countess runs. Intermediate floors become effectively unused.
+잊혀진 탑(포가튼 타워) 입장 시 더 이상 1층부터 시작하지 않습니다.
+입구로 들어가면 바로 타워 5층으로 연결되어, 카운테스(백작) 파밍을 훨씬 빠르게 진행할 수 있습니다. 중간 층들은 사실상 생략됩니다.
 
 ---
 
 <img src="https://i.imgur.com/XzKmiQK.gif" />
 
-Connects the Barracks directly to the Inner Cloister, completely skipping Jail Levels 1–3.
-Since those Jail levels are no longer part of the map flow, the Jail waypoint is also effectively unusable in this configuration.
+병영과 내부회랑을 직접 연결하여 감옥 1~3층 구간을 완전히 건너뜁니다.
+해당 구간이 맵 동선에서 제외됨에 따라, 감옥 웨이포인트는 사용이 불가능해집니다.
 
 ---
 
 <img src="https://i.imgur.com/QjNXzgv.gif" />
 
-Entering the Cathedral from the Inner Cloister now leads directly to Catacombs Level 2, which then connects straight to Catacombs Level 4. Even if you don't use the Andariel waypoint option, using the existing Level 2 waypoint will lead you directly to Andariel, making the progression feel very natural. It also keeps the fun of opening chests along the way. While I could have linked the Cathedral directly to Level 4, I believe this specific shortcut is the most optimal balance, considering both logic and compatibility with other waypoint options in the mod.
+내부회랑에서 대성당으로 입장하면 카타콤(지하묘지) 2층으로 바로 연결되며, 그곳에서 다시 4층으로 직행할 수 있습니다. 안다리엘 웨이포인트 옵션을 쓰지 않더라도 기존 2층 웨이포인트를 활용해 안다리엘에게 곧장 갈 수 있어 진행이 매끄럽습니다. 가는 길에 상자를 여는 재미 또한 유지했습니다. 대성당을 4층에 바로 붙일 수도 있었으나, 게임의 개연성과 다른 웨이포인트 옵션들과의 호환성을 고려해 이 경로가 가장 적절한 밸런스라고 판단했습니다.
 
 ---
 
 <img src="https://i.imgur.com/03FpbpH.gif" />
 
-Adds a new waypoint in Catacombs Level 4 so non-Teleport characters can farm Andariel more comfortably.
-As a tradeoff, the Catacombs Level 2 waypoint becomes one-way:
-you can still use it to leave for town, but you can no longer return from town back to Catacombs Level 2.
+카타콤 4층에 신규 웨이포인트를 추가하여 텔레포트가 없는 캐릭터도 안다리엘을 편하게 파밍할 수 있습니다.
+이에 대한 기회비용으로 카타콤 2층 웨이포인트는 마을로 가는 것만 가능한 '일방통행'으로 변경됩니다. (마을에서 2층으로의 이동은 불가)
 
 ---
 
 <img src="https://i.imgur.com/dP2cDjp.gif" />
 
-Adds a waypoint in the Secret Cow Level.
-After killing Baal, you must open the cow portal once in the traditional way;
-once you have visited the level, the waypoint becomes available for future runs.
-Because Act I has a limited number of waypoint slots, this configuration reuses the slot normally reserved for Jail Level 1,
-so the Jail waypoint will no longer appear in the waypoint list.
+카우방에 웨이포인트를 추가합니다.
+바알 처치 후 기존 방식대로 포털을 한 번 열어 입장하고 나면, 이후부터는 웨이포인트를 통해 바로 진입할 수 있습니다.
+1막의 한정된 웨이포인트 슬롯을 확보하기 위해 감옥 1층 슬롯을 재사용하므로, 웨이포인트 목록에서 감옥은 삭제됩니다.
 
 ---
 
-### Act II
+### 액트2
 
 <img src="https://i.imgur.com/flTYJSd.gif" />
 
-Direct accecs to Radament in Sewers Level3
+하수도 3층에 있는 라다먼트 앞으로 바로 갈 수 있는 직행 통로가 추가됩니다.
 
 ---
 
 <img src="https://i.imgur.com/3cWQNtY.gif" />
 
-All Horadric Quest chests are located at the Town. 
+호라드릭 퀘스트 관련 상자들이 모두 마을 안에 배치되어 빠른 퀘스트 진행을 할수있습니다. 
 
 ---
 
 <img src="https://i.imgur.com/V7FIhqf.gif" />
 
-Entering the Maggot Lair from the Far Oasis sends you directly to Level 3, greatly speeding up the Staff quest.
-Levels 1 and 2 are effectively skipped, which especially helps melee characters that struggle in tight corridors.
+파 오아시스에서 마고트 동굴로 진입 시 곧바로 3층으로 연결되어, 지팡이 퀘스트를 빠르게 완료할 수 있습니다.
+좁은 통로에서 고전하는 근접 캐릭터들에게 특히 유용하며, 1~2층 구간은 생략됩니다.
 
 ---
 
 <img src="https://i.imgur.com/MXaH7MN.gif" />
 
-An entrance to the Arcane Sanctuary will appear.
-Once you enter, you will be positioned right in front of the Summoner, making it a very useful option for farming the Key of Hate quickly.
+아케인 생츄어리 직행 입구가 생성됩니다.
+입장 시 소환술사 바로 앞에 위치하게 되어, 증오의 열쇠를 빠르게 파밍하기에 매우 효과적입니다.
 
 ---
 
-### Act III
+### 액트3
 
 <img src="https://i.imgur.com/7TfMm1H.gif" />
 
-From the Flayer Jungle, entering the Flayer Dungeon now connects directly to Level 3.
-Levels 1 and 2 are skipped, letting you reach key quest objectives and Flayer farming spots much faster.
+약탈자밀림에서 던전 입장 시 3층으로 곧바로 연결됩니다.
+1~2층을 거치지 않고 퀘스트 목표 지점이나 파밍 장소에 즉시 도달할 수 있습니다.
 
 ---
 
 <img src="https://i.imgur.com/jT4Zo8c.gif" />
 
-Both Khalim's Eye and Khalim's Heart can now be obtained in the Spider Cavern, removing the need to run the complex Kurast sewers for quest progression.
-The sewers remain as optional extra content for experience and loot, but are no longer required for Khalim's quest chain. - Added on January 30, 2026
+칼림의 눈과 칼림의 심장을 모두 스파이더 동굴(거미 동굴)에서 획득할 수 있습니다. 더 이상 퀘스트 진행을 위해 복잡한 쿠라스트 하수도를 헤맬 필요가 없습니다.
+하수도는 아이템이나 경험치를 위한 선택적 장소로 남지만, 퀘스트 완료를 위해 반드시 방문할 필요는 없게 됩니다.
 
 ---
 
 <img src="https://i.imgur.com/iYQhQ6P.gif" />
 
-All three of Khalim's Reliquaries are located right in the Act 3 town, making them easy to obtain. Additionally, you can head straight to Travincal by using the entrance located right next to them. This is a separate option available only when you want to skip quests as quickly as possible. Just your Choice.
+칼림 퀘스트 셋 3종이 3막 마을에 바로 배치되어 쉽게 획득할 수 있습니다.
+또한 퀘스트상자 바로 옆에 있는 입구를 통해 트라빈칼로 즉시 이동이 가능합니다.
+이 옵션은 퀘스트를 최대한 빠르게 스킵하고 싶은 분들을 위한 선택 사항입니다.
 
 ---
 
 <img src="https://i.imgur.com/HAxq5Bu.gif" />
 
-From Travincal, you can now head directly to Durance of Hate Level 2. While I could have linked it straight to Level 3, I felt that skipping too much content isn't ideal. I believe this path provides a natural story progression alongside the Level 2 waypoint, and it is available as an optional choice if needed.
+트라빈칼에서 증오의 억류지 2층으로 바로 진입할 수 있습니다.
+3층으로 직접 연결할 수도 있었으나, 원활한 스토리 흐름을 위해 2층 웨이포인트와 연계되는 이 경로가 더 자연스럽다고 판단했습니다.
+필요에 따라 선택적으로 사용할 수 있습니다.
 
 ---
 
 <img src="https://i.imgur.com/bbgU56A.gif" />
 
-Adds a new waypoint in Durance of Hate Level 3 so non-Teleport characters can farm Mephisto more comfortably.
-As a tradeoff, the Durance of Hate Level 2 waypoint becomes one-way:
-you can still use it to leave for town, but you can no longer return from town back to Durance of Hate Level 2.
+증오의 억류지 3층에 신규 웨이포인트를 추가하여 텔레포트가 없는 캐릭터도 메피스토 파밍을 수월하게 할 수 있습니다.
+대신 증오의 억류지 2층 웨이포인트는 마을로 가는 것만 가능한 일방통행으로 변경됩니다. (마을에서 2층으로의 이동은 불가)
 
 ---
 
-### Act IV
+### 액트4
 
 <img src="https://i.imgur.com/b8xDO0D.gif" />
 
-Removes distracting Act 4 town roofs and object collisions.
+시야를 가리는 4막 마을의 지붕과 지형지물 충돌 판정을 제거합니다.
 
 ---
 
 <img src="https://i.imgur.com/crhX5RL.gif" />
 <img src="https://i.imgur.com/cHIV6xR.gif" />
 
-An entrance that leads directly to the Hell Forge and Izual will appear in town.
+마을 안에 헬포지 및 이주얼에게 곧장 연결되는 입구가 생성됩니다.
 
 ---
 
 <img src="https://i.imgur.com/erSEOsY.gif" />
 
-Adds a new waypoint near the entrance to the Chaos Sanctuary, giving instant access to Diablo runs and endgame farming without long walks through the River of Flame.
+카오스 생츄어리(혼돈의 성역) 입구 근처에 웨이포인트를 추가합니다.
+불길의 강을 길게 가로지를 필요 없이 디아블로 런과 엔드게임 파밍을 즉시 시작할 수 있습니다.
 
 ---
 
@@ -138,44 +139,50 @@ Adds a new waypoint near the entrance to the Chaos Sanctuary, giving instant acc
 
 <img src="https://i.imgur.com/LsbsbG7.gif" />
 
-Once you enter the Frozen River, you can find Anya located right near the entrance. This change is optional as it might feel a bit excessive to some. However, it is true that many players feel burdened when going to rescue Anya depending on the situation, and she is often abandoned in Hell difficulty. So, Anya has come all the way to the entrance to greet you. Now, please go and rescue her.
+프로즌 리버(얼어붙은 강) 입장 시 입구 근처에서 바로 안야를 찾을 수 있습니다.
+다소 파격적인 변경이라 선택 사항으로 두었습니다.
+지옥 난이도에서 안야 구출에 부담을 느껴 포기하는 경우가 많다는 점을 고려하여, 안야가 유저를 맞이하러 입구까지 마중 나온 컨셉입니다.
+이제 잊지 말고 안야를 구출해 주세요.
 
 ---
 
 <img src="https://i.imgur.com/O8xG09I.gif" />
 
-Previously, you had to go from the Crystalline Passage to the Frozen Tundra and then to The Ancients' Way, but now they are directly connected.Instead, the waypoints for Frozen Tundra and Glacial Trail will be removed from the list. This is a necessary measure because using a waypoint to travel to a non-existent area will cause the game to crash. Please enable this feature only if you specifically need it.
+기존에는 수정 동굴에서 얼어붙은 동토를 거쳐 고대인의 길로 가야 했지만, 이제 두 지역이 직접 연결됩니다.
+이 기능을 활성화하면 얼어붙은 동토와 빙하의 길 웨이포인트는 목록에서 제거됩니다. (존재하지 않는 지역으로 이동 시 게임이 튕기는 현상을 방지하기 위한 필수 조치입니다.)
+꼭 필요한 경우에만 사용하시기 바랍니다.
 
 ---
 
 <img src="https://i.imgur.com/GhyIL1f.gif" />
 
-Adds a new waypoint in Halls of Vaught so non-Teleport characters can farm Nihlathak more comfortably.
-As a tradeoff, the Halls of Pain waypoint becomes one-way: you can still use it to leave for town, but you can no longer return from town back to the Halls of Pain.
+보트의 전당에 신규 웨이포인트를 추가하여 텔레포트가 없는 캐릭터도 파괴키 파밍을 더 쉽게 할 수 있습니다.
+대신 고통의 전당 웨이포인트는 마을로 나가는 것만 가능한 일방통행으로 변경됩니다.
 
 ---
 
 <img src="https://i.imgur.com/cmolQ0n.gif" />
 
-From the Arreat Summit, you can now proceed directly to The Worldstone Keep Level 2. When combined with other options, this leads you straight from Level 2 to the Throne of Destruction. I believe this provides a reasonable skip while maintaining a natural story flow.
+아리앗 정상에서 고대인 처치 후 세계석 성채 2층으로 바로 진입할 수 있습니다.
+다른 옵션들과 조합하면 2층에서 바로 파괴의 왕좌까지 이어지며, 스토리의 흐름을 깨지 않는 선에서 합리적인 스킵 경로를 제공합니다.
 
 ---
 
 <img src="https://i.imgur.com/JvqQbdL.gif" />
 
-Links Worldstone Keep Level 2 directly to the Throne of Destruction, completely skipping Worldstone Keep Level 3.
-This greatly speeds up Baal runs and reduces the need for Teleport, without changing any waypoint locations.
+세계석 성채 2층과 파괴의 왕좌를 직접 연결하여 3층 구간을 완전히 생략합니다.
+웨이포인트 위치를 바꿀 필요 없이 바알 런 속도를 획기적으로 높여주며 텔레포트 의존도를 낮춰줍니다.
 
 ---
 
 <img src="https://i.imgur.com/JMtAEdh.gif" />
 
-Direct entrances to Pandemonium just outside of town
+마을 바로 바깥에 횃불퀘스트 트리스트럼 으로 직행하는 입구가 추가됩니다.
 
 ---
 
 <img src="https://i.imgur.com/hgSYQUP.gif" />
 
-Direct entrances to Colossal Summit just outside of town. (If you're not Rotw(DLC) user, don't active this options. if does, you will get crash.)
+마을 바로 바깥에 악군 우버3바바로 직행하는 입구가 추가됩니다. (악군사용자가 아니라면 이 옵션을 활성화하지 마세요. 충돌이 발생합니다.)
 
 ---
