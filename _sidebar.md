@@ -3,3 +3,4 @@
 * [Changelog](changelog.md)
 * [Features](features.md)
 * [Known Issues](issues.md)
+* [한국어](/ko/)
