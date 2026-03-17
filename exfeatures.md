@@ -8,7 +8,7 @@ Purely optional extra convenience features. Disabled by default.
 
 * Removes the need for keys when opening locked chests.
 
-*The screen no longer darkens upon entering a Terror Zone. Additionally, even if the Terror Zone environment is set to day, there is usually a lingering transition effect where the screen momentarily dims and then brightens; this effect has also been disabled.
+* The screen no longer darkens upon entering a Terror Zone. Additionally, even if the Terror Zone environment is set to day, there is usually a lingering transition effect where the screen momentarily dims and then brightens; this effect has also been disabled.
 
 * Allows all non-passive, non-aura skills for playable classes to be assigned to both left and right mouse buttons.
 
