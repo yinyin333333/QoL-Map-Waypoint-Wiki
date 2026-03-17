@@ -4,6 +4,6 @@
 * [Main Features](features.md)
 * [Extra Features](exfeatures.md)
 * [Town QoL](town.md)
-* [Terror Zone Customize](terrorzone.md)
+* [Terror Zone QoL](terrorzone.md)
 * [Known Issues](issues.md)
 * [한국어](/ko/)
