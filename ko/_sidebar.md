@@ -1,5 +1,6 @@
-* [홈](/ko/README.md)
+* [홈](/ko/)
 * [설치방법](/ko/installation.md)
 * [변경로그](/ko/changelog.md)
 * [기능설명](/ko/features.md)
-* [알려진이슈](/ko/issues.md)
+* [알려진 이슈](/ko/issues.md)
+* [English](/)
