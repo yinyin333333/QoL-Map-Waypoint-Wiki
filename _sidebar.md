@@ -1,4 +1,4 @@
-* [Home](README.md)
+* [Home](/)
 * [Installation](installation.md)
 * [Changelog](changelog.md)
 * [Features](features.md)
