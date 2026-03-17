@@ -53,6 +53,6 @@ Additionally, a compatible version for Reimagined is not currently available. Th
 ---
 ### Added on February 1, 2026
 * A compatibility patch for Reimagined users is provided separately in the Optional files section. 
-
+---
 ### Added on January 31, 2026
 * Now, all changes can be individually selected and applied by the user. All options are enabled by default.
