@@ -1,1 +1,1 @@
-QoL May Waypoint 위키
+QoL Map Waypoint 위키
