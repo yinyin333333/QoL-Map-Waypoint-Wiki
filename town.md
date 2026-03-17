@@ -1,7 +1,8 @@
 # Town QoL
 ---
 This mod modifies the locations of NPCs, game entry points, and portals in Acts 2, 3, and 5.
-As stated in the <b>Disclaimer</b> below, this mod is incompatible with other mods that modify map files. Therefore, this mod applies its own efficient changes, and please note that these specific adjustments are applied globally and cannot be toggled individually.
+this mod is incompatible with other mods that modify map files.
+Therefore, this mod applies its own efficient changes, and please note that these specific adjustments are applied globally and cannot be toggled individually.
 
 ---
 
