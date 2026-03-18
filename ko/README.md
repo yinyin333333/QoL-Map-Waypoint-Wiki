@@ -30,9 +30,9 @@
 
 <a href="https://www.nexusmods.com/diablo2resurrected/mods/906?tab=files" target="_blank" rel="noopener noreferrer">다운로드 링크</a>
 
-[Installation](installation.md)
+[설치방법](installation.md)
 
-[Changelog](changelog.md)
+[패치노트](changelog.md)
 
 [주요기능](features.md)
 
@@ -41,6 +41,8 @@
 [마을 QoL](town.md)
 
 [테러존 QoL](terrorzone.md)
+
+[자주묻는 질문](faq.md)
 
 [알려진 문제](issues.md)
 
