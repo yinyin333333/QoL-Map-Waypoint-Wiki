@@ -5,5 +5,6 @@
 * [Extra Features](exfeatures.md)
 * [Town QoL](town.md)
 * [Terror Zone QoL](terrorzone.md)
+* [FAQ](faq.md)
 * [Known Issues](issues.md)
 * [한국어](/ko/)
