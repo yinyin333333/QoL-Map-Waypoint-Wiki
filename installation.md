@@ -7,6 +7,21 @@ However, the installation and application process is very straightforward.
 
 ---
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/PPf1fzStyb8"
+    title="YouTube video player"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+The attached video demonstrates how to install D2RMM, the Reimagined overhaul mod, and QoL Map Waypoint. It covers the same content as the text below but provides a more detailed look at the process.
+
+---
+
 <a href="https://github.com/olegbl/d2rmm/releases/tag/v1.9.0" target="_blank" rel="noopener noreferrer">D2RMM Download Link</a>
 
 <img src="https://i.imgur.com/E6CQldX.png" />
