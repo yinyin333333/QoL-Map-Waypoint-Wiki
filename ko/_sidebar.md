@@ -5,5 +5,6 @@
 * [선택기능](exfeatures.md)
 * [마을 QoL](town.md)
 * [테러존 QoL](terrorzone.md)
+* [자주묻는 질문](faq.md)
 * [알려진 문제](issues.md)
 * [English](/)
